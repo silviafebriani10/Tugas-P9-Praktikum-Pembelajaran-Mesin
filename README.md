@@ -3,7 +3,7 @@
 
 ---
 
-### 📁 Dataset  
+### Dataset  
 Dataset yang digunakan diunduh dari [https://www.kaggle.com/c/si650winter11/data](https://www.kaggle.com/c/si650winter11/data). Dataset ini berupa file TSV (*tab-separated values*), di mana:
 
 - **Kolom pertama**: Label sentimen (`0` = negatif, `1` = positif)  
@@ -11,7 +11,7 @@ Dataset yang digunakan diunduh dari [https://www.kaggle.com/c/si650winter11/data
 
 ---
 
-### 🧹 Preprocessing  
+### Preprocessing  
 Tahapan preprocessing meliputi:
 
 - Lemmatization: mengubah kata ke bentuk dasar  
